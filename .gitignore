@@ -1,0 +1,14 @@
+## 파일 무시
+
+## 확장자 무시
+*.docx
+*.zip
+*.jpg
+*.weights
+
+## 폴더 무시
+android/
+video/
+__pycache__/
+seloco_app/
+legacy/
